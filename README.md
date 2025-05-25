@@ -38,3 +38,10 @@ I am Anjali, a B.Tech Computer Science student specializing in AI/ML. Alongside 
 ---
 
 Feel free to explore, give feedback, or reach out to connect!
+
+## Additional Practice
+
+For more coding problems I’ve solved, feel free to check out my LeetCode profile:  
+**Name:** SolveTheMystery  
+**LeetCode ID:** [AnjaliAmma](https://leetcode.com/AnjaliAmma)
+
